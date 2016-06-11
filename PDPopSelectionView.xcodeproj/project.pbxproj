@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		049F473B1D0B0C80008C9319 /* checkbox_checked@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 049F47391D0B0C80008C9319 /* checkbox_checked@3x.png */; };
 		049F473C1D0B0C80008C9319 /* checkbox_unchecked@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 049F473A1D0B0C80008C9319 /* checkbox_unchecked@3x.png */; };
+		049F473E1D0C08FC008C9319 /* snapshot.gif in Resources */ = {isa = PBXBuildFile; fileRef = 049F473D1D0C08FC008C9319 /* snapshot.gif */; };
 		04B507EB1D0AE2A400BB5FC9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B507EA1D0AE2A400BB5FC9 /* main.m */; };
 		04B507EE1D0AE2A400BB5FC9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B507ED1D0AE2A400BB5FC9 /* AppDelegate.m */; };
 		04B507F11D0AE2A400BB5FC9 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04B507F01D0AE2A400BB5FC9 /* ViewController.m */; };
@@ -21,6 +22,7 @@
 /* Begin PBXFileReference section */
 		049F47391D0B0C80008C9319 /* checkbox_checked@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checkbox_checked@3x.png"; sourceTree = "<group>"; };
 		049F473A1D0B0C80008C9319 /* checkbox_unchecked@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checkbox_unchecked@3x.png"; sourceTree = "<group>"; };
+		049F473D1D0C08FC008C9319 /* snapshot.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = snapshot.gif; sourceTree = "<group>"; };
 		04B507E61D0AE2A400BB5FC9 /* PDPopSelectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PDPopSelectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04B507EA1D0AE2A400BB5FC9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		04B507EC1D0AE2A400BB5FC9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 				04B507F51D0AE2A400BB5FC9 /* Assets.xcassets */,
 				04B507F71D0AE2A400BB5FC9 /* LaunchScreen.storyboard */,
 				04B507FA1D0AE2A400BB5FC9 /* Info.plist */,
+				049F473D1D0C08FC008C9319 /* snapshot.gif */,
 				04B507E91D0AE2A400BB5FC9 /* Supporting Files */,
 			);
 			path = PDPopSelectionView;
@@ -165,6 +168,7 @@
 			files = (
 				049F473B1D0B0C80008C9319 /* checkbox_checked@3x.png in Resources */,
 				04B507F91D0AE2A400BB5FC9 /* LaunchScreen.storyboard in Resources */,
+				049F473E1D0C08FC008C9319 /* snapshot.gif in Resources */,
 				04B507F61D0AE2A400BB5FC9 /* Assets.xcassets in Resources */,
 				049F473C1D0B0C80008C9319 /* checkbox_unchecked@3x.png in Resources */,
 				04B507F41D0AE2A400BB5FC9 /* Main.storyboard in Resources */,
